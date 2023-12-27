@@ -10,6 +10,7 @@ This project is a simple Android application where the user tries to guess a ran
 - Displaying the outcome of the game on the result screen
 - Feature to start a new game
 
+
 # Sayı Tahmin Oyunu
 
 Bu proje, kullanıcının 1 ile 100 arasında rastgele seçilmiş bir sayıyı tahmin etmeye çalıştığı basit bir Android uygulamasıdır. Kullanıcı, tahminini yapar ve uygulama, tahminin çok yüksek ya da çok düşük olup olmadığını bildirir. Kullanıcı, doğru sayıyı bulana kadar veya tüm tahmin hakları tükendiğinde oyun sona erer. Doğru tahmin yapıldığında veya tahmin hakları bittiğinde, sonuç ekranına geçiş yapılır. Uygulama, Kotlin dili kullanılarak Android Studio'da geliştirilmiştir.
