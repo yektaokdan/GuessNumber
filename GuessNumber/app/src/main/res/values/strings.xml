@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="_5_chances_left">5 Chances Left</string>
+    <string name="increase">Increase</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="guess">Guess</string>
+    <string name="guess_number_game">Guess Number Game</string>
+    <string name="play">Play</string>
+    <string name="dicesimage">dicesImage</string>
+</resources>
